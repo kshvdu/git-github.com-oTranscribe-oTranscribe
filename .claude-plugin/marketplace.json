@@ -1,0 +1,7 @@
+{
+  "name": "hoangdu-tools",
+  "owner": { "name": "Hoang Du" },
+  "plugins": [
+    { "name": "otranscribe", "source": "./plugins/otranscribe", "description": "oTranscribe skill" }
+  ]
+}

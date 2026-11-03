@@ -1,0 +1,5 @@
+{
+  "name": "otranscribe",
+  "description": "Skill for oTranscribe: transcribe interviews, self-host the app, read .otr files.",
+  "version": "0.1.0"
+}
